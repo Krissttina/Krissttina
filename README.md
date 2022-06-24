@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krissttina
 - 👀 I’m interested in ... art
 - 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... any type of project
+- 💞️ I’m looking to collaborate on ... any type of projects
 - 📫 How to reach me ... kristinametodieva621@gmail.com
 
 <!---
