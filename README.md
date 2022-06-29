@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krissttina
+- 👋 Hi, I’m Kristina
 - 👀 I’m interested in ... art
 - 🌱 I’m currently learning ... Javascript
 - 💞️ I’m looking to collaborate on ... any type of projects
