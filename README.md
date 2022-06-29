@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristina</h1>
-<h3 align="center">A passionate rookie frontend developer</h3>
+<h3 align="center">A passionate rookie developer</h3>
 
 - 👀 I’m interested in art
 - 🌱 I’m currently learning Javascript
