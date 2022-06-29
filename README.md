@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kristina
-- 👀 I’m interested in ... art
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ... any type of projects
-- 📫 How to reach me ... kristinametodieva621@gmail.com
+- 👀 I’m interested in art
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on any type of projects
+- 📫 How to reach me -> kristinametodieva621@gmail.com
 
 <!---
 Krissttina/Krissttina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
