@@ -2,9 +2,8 @@
 <h3 align="center">I'm a rookie developer</h3>
 
 
-- 👀 I’m interested in art
+- 👀 I’m interested in art and video games
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any type of projects
 - 📫 How to reach me -> kristinametodieva621@gmail.com
 
 
