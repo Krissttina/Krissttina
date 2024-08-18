@@ -1,9 +1,18 @@
 <h1 align="center">Hi, I'm Kristina 👋</h1>
 <!--<h3 align="center">I'm a rookie developer</h3>-->
 
+😊 About Me
+🤗 I'm always searching for learnung something new.
+⭐️ I believe in continuous self-improvement.
 
-- 👀 I’m interested in art and video games
-- 🌱 I’m currently learning Javascript
+🎓Education
+Javascript path in Software University (SoftUni)
+New Bulgarian Univercity
+
+⚡ Hobbies
+- ✏️ I’m interested in art and video games
+
+  
 - 📫 How to reach me -> kristinametodieva621@gmail.com
 
 
