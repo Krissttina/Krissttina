@@ -2,12 +2,12 @@
 <!--<h3 align="center">I'm a rookie developer</h3>-->
 
 😊 About Me
-🤗 I'm always searching for learnung something new.
-⭐️ I believe in continuous self-improvement.
+- 🤗 I'm always searching for learnung something new.
+- ⭐️ I believe in continuous self-improvement.
 
 🎓Education
-Javascript path in Software University (SoftUni)
-New Bulgarian Univercity
+- Javascript path in Software University (SoftUni)
+- New Bulgarian Univercity
 
 ⚡ Hobbies
 - ✏️ I’m interested in art and video games
